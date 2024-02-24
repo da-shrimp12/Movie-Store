@@ -1,0 +1,30 @@
+com/example/moviestore/databinding/ActivityMovieDetailBinding.java
+ com.example.moviestore.databinding.ActivityMovieDetailBinding
+com/example/moviestore/databinding/ItemCastCrewBinding.java
+ com.example.moviestore.databinding.ItemCastCrewBinding
+com/example/moviestore/databinding/FragmentMovieListBinding.java
+ com.example.moviestore.databinding.FragmentMovieListBinding
+com/example/moviestore/BuildConfig.java
+ com.example.moviestore.BuildConfig
+com/example/moviestore/databinding/ActivityAlarmBinding.java
+ com.example.moviestore.databinding.ActivityAlarmBinding
+com/example/moviestore/databinding/ItemGridBinding.java
+ com.example.moviestore.databinding.ItemGridBinding
+com/example/moviestore/databinding/FragmentSettingBinding.java
+ com.example.moviestore.databinding.FragmentSettingBinding
+com/example/moviestore/databinding/FragmentFavBinding.java
+ com.example.moviestore.databinding.FragmentFavBinding
+com/example/moviestore/databinding/ActivityMainBinding.java
+ com.example.moviestore.databinding.ActivityMainBinding
+com/example/moviestore/databinding/NavHeaderBinding.java
+ com.example.moviestore.databinding.NavHeaderBinding
+com/example/moviestore/databinding/ActivityEditProfileBinding.java
+ com.example.moviestore.databinding.ActivityEditProfileBinding
+com/example/moviestore/databinding/SettingsActivityBinding.java
+ com.example.moviestore.databinding.SettingsActivityBinding
+com/example/moviestore/databinding/ItemListBinding.java
+ com.example.moviestore.databinding.ItemListBinding
+com/example/moviestore/databinding/ActivitySplashBinding.java
+ com.example.moviestore.databinding.ActivitySplashBinding
+com/example/moviestore/databinding/FragmentAboutBinding.java
+ com.example.moviestore.databinding.FragmentAboutBinding

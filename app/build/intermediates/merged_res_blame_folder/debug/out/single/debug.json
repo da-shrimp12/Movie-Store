@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_fragment_setting.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_favorite_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/favorite_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_item_list.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_star_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/star_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_no_img.png.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/no_img.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_email_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/email_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_dob_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/dob_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_movie_store_icon_splash_screen.png.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/movie_store_icon_splash_screen.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_edt_item.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/edt_item.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_fragment_movie_list.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_movie_list.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_splash_screen.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_ic_baseline_star_24.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable-v24_ic_list.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable-v24/ic_list.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_activity_movie_detail.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/menu_search_bar_menu.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/menu/search_bar_menu.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_settings_activity.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_fragment_fav.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/menu_nav_menu.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_item_cast_crew.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_cast_crew.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_custom_view.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/custom_view.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_nav_header.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/menu_menu_main.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_movies_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/movies_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_about_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/about_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_activity_alarm.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable-v24_ic_grid.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable-v24/ic_grid.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/menu_settings_menu.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/menu/settings_menu.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_ic_round_search_24.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/ic_round_search_24.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_activity_edit_profile.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_gender_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/gender_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_settings_icon.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/layout_item_grid.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_grid.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/drawable_adult.png.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/drawable/adult.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

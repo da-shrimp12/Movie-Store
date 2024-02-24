@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieStore</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="email">Email</string>
+    <string name="dob">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="text_nav">Name</string>
+    <string name="edt_text">Edit</string>
+    <string name="show_text">Show All</string>
+    <string name="remind_list">Reminder List:</string>
+    <string name="settings">Settings</string>
+    <string name="favourite">Favourite</string>
+    <string name="about">About</string>
+    <string name="movies">Movies</string>
+    <string name="favourites_btn">Favourites Button</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="schedule_notification">Schedule Notification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.moviestore"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+11-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:5:5-78
+11-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:6:5-67
+12-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:8:5-44:19
+15        android:allowBackup="true"
+15-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] /Users/macbook/.gradle/caches/transforms-3/6006d603408a8c1ed0edf3e550c48eb5/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="@string/app_name"
+20-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:11:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:13:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.AppCompat.Light" >
+24-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:14:9-53
+25        <receiver
+25-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:15:9-17:37
+26            android:name="com.example.moviestore.Notification"
+26-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:16:13-41
+27            android:enabled="true" />
+27-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:17:13-35
+28
+29        <activity
+29-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:18:9-20:40
+30            android:name="com.example.moviestore.AlarmActivity"
+30-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:19:13-42
+31            android:exported="false"
+31-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:20:13-37
+32            android:parentActivityName="com.example.moviestore.MainActivity" />
+32-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:19:43-85
+33        <activity
+33-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:21:9-23:40
+34            android:name="com.example.moviestore.EditProfileActivity"
+34-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:22:13-48
+35            android:exported="false" />
+35-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:23:13-37
+36        <activity
+36-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:24:9-26:40
+37            android:name="com.example.moviestore.MovieDetailActivity"
+37-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:25:13-48
+38            android:exported="false"
+38-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:26:13-37
+39            android:parentActivityName="com.example.moviestore.MainActivity" />
+39-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:25:49-91
+40        <activity
+40-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:27:9-36:20
+41            android:name="com.example.moviestore.SplashActivity"
+41-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:28:13-43
+42            android:exported="true"
+42-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:29:13-36
+43            android:theme="@style/splash_screen" >
+43-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:30:13-49
+44            <intent-filter>
+44-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:31:13-35:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:32:17-69
+45-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:32:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:34:17-77
+47-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:34:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:37:9-40:58
+51            android:name="com.example.moviestore.SettingsActivity"
+51-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:38:13-45
+52            android:exported="true"
+52-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:39:13-36
+53            android:parentActivityName="com.example.moviestore.MainActivity" />
+53-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:40:13-55
+54        <activity
+54-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:41:9-43:39
+55            android:name="com.example.moviestore.MainActivity"
+55-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:42:13-41
+56            android:exported="true" />
+56-->/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/AndroidManifest.xml:43:13-36
+57
+58        <provider
+58-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+59            android:name="androidx.startup.InitializationProvider"
+59-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+60            android:authorities="com.example.moviestore.androidx-startup"
+60-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+61            android:exported="false" >
+61-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+62            <meta-data
+62-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+63-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+64                android:value="androidx.startup" />
+64-->[androidx.emoji2:emoji2:1.0.0] /Users/macbook/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+65            <meta-data
+65-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macbook/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macbook/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+67                android:value="androidx.startup" />
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/macbook/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+68        </provider>
+69    </application>
+70
+71</manifest>

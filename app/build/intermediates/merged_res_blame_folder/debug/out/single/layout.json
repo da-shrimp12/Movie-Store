@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_fav.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_cast_crew.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_cast_crew.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_grid.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_grid.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_profile.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/settings_activity.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_alarm.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_alarm.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movie_list.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_movie_list.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_movie_detail.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/item_list.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_setting.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nav_header.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_about.xml",
+        "source": "/Users/macbook/Desktop/fresher2021_androidmock_anhld39/MovieStore/app/src/main/res/layout/fragment_about.xml"
+    }
+]
